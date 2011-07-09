@@ -1,0 +1,1 @@
+problem 6 and 7 are a bit hacky - brute force

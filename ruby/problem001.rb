@@ -1,0 +1,1 @@
+puts ((1..999).to_a.find_all{ |x| x%3 == 0 or x%5 == 0}).inject(0) { |sum,x| sum += x }
